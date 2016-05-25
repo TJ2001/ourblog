@@ -1,0 +1,16 @@
+body {
+  background-image: url(https://jonnymorse.files.wordpress.com/2013/03/retro-sweets-repeat-pattern-blue.jpg);
+}
+
+.title {
+  font-family: monospace;
+  font-size: 40px;
+}
+
+.intro {
+  font-size: 15px;
+  text-align: left;
+  font-family: monospace;
+  color: purple;
+  background-color: white;
+}
