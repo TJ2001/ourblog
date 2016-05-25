@@ -13,4 +13,20 @@ body {
   font-family: monospace;
   color: purple;
   background-color: white;
+  margin-top: 300px;
+  margin-bottom: 300px;
+  margin-left: 100px;
+  margin-right:100px;
+}
+
+.content1{
+  font-size: 15px;
+  text-align: left;
+  font-family: monospace;
+  color: purple;
+  background-color: white;
+  margin-top: 300px;
+  margin-bottom: 300px;
+  margin-left: 100px;
+  margin-right:100px;
 }
